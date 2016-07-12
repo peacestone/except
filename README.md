@@ -1,3 +1,3 @@
-realyt gorup website
-#disciption
-this is an exampel site for intro
+Realty Group Website
+#this is an example Website for introduction to HTML
+
